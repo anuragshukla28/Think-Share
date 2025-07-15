@@ -12,14 +12,14 @@
 
 ## ✨ Key Features
 
-- 📝 **Create & Edit Articles** 
-- 🌄 **Image Upload** using Cloudinary
-- 🧠 **Gemini AI Integration** for topic-based suggestions
-- ❤️ **Like Articles** to appreciate good content
-- 💬 **Comment System** with threaded replies
-- 🔐 **Authentication** (Register/Login with JWT + access/refresh tokens)
-- 👤 **User Profile** showing written articles and social links
-- 📱 **Responsive UI** with smooth navigation
+- 📝 **Create & Edit Articles**  
+- 🌄 **Image Upload** using Cloudinary  
+- 🧠 **Gemini AI Integration** for topic-based suggestions  
+- ❤️ **Like Articles** to appreciate good content  
+- 💬 **Comment System** with threaded replies  
+- 🔐 **Authentication** (Register/Login with JWT + access/refresh tokens)  
+- 👤 **User Profile** showing written articles and social links  
+- 📱 **Responsive UI** with smooth navigation  
 
 ---
 
@@ -34,20 +34,18 @@
 
 ---
 
-
+Made with ❤️ by Anurag Shukla
 
 ## 🚀 Run Locally
 
 ### Frontend
-```bash
+
 cd client
 npm install
 npm run dev
 
 ### Backend
-```bash
 cd server
 npm install
 npm run dev
 
-Made with ❤️ by Anurag Shukla
