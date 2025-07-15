@@ -34,18 +34,19 @@
 
 ---
 
-Made with ❤️ by Anurag Shukla
-
 ## 🚀 Run Locally
 
 ### Frontend
-
+```bash
 cd client
 npm install
 npm run dev
-
+```
 ### Backend
+```bash
 cd server
 npm install
 npm run dev
+```
 
+Made with ❤️ by Anurag Shukla
