@@ -31,6 +31,13 @@ app.use("/api/v1/auth", authRoutes);
 app.use("/api/v1/article", articleRoutes);
 app.use("/api/v1/gemini", geminiRoutes);
 
+
+// root route
+app.get("/", (req, res) => {
+    res.send("🚀 Think-Share API is running!");
+  });
+  
+
 // ✅ error handler should be the last middleware
 app.use(errorHandler);
 
